@@ -50,6 +50,7 @@ It includes training, testing, and visualizing predictions.
   - Dog images
 - Images are resized to `256×256` and normalized before training.
 
+- **Download link:** [Cat VS Dog Dataset](https://www.kaggle.com/datasets/karakaggle/kaggle-cat-vs-dog-dataset)  
 **Note:** You do not need to label images manually.
 
 ---
